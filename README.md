@@ -113,12 +113,13 @@ int main() {
         exit(EXIT_SUCCESS);
     }
 }
-    ```
+```
 
 
 
 ## OUTPUT
-![Alt text](image-1.png)
+<img width="883" height="456" alt="image" src="https://github.com/user-attachments/assets/33d63118-8a47-47e0-a8f5-abadf47c1999" />
+
 
 # RESULT:
 The program is executed successfully.
